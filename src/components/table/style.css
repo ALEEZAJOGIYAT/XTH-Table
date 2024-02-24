@@ -1,0 +1,29 @@
+.table_wrapper{
+    border: 2px solid;
+    height: 100%;
+    width: 100%;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: 'center';
+    margin-top: 17px;
+}
+
+.table_inputs{
+    background-color: none;
+    outline: none;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    box-sizing: 0px;
+  
+}
+
+
+.searchField{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+}
